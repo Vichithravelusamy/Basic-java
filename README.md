@@ -1,1 +1,1 @@
-# Basic-java
+Student Management System
