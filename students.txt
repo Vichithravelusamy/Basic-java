@@ -1,0 +1,5 @@
+vichithra,58,IoT,90.0
+kani,29,CSE,87.0
+priya,30,IT,98.0
+vidhya,59,CSE,89.0
+praveen,32,ECE,90.0
